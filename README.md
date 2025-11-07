@@ -17,11 +17,8 @@
 
 ## 技术栈
 
-- .NET 6+
+- .NET 9+
 - ASP.NET Core
-- System.IO.Packaging (数字签名)
-- System.Drawing (图像处理)
-- System.IO.Compression (ZIP 文件处理)
 
 ## API 端点
 
